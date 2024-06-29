@@ -19,7 +19,7 @@ The mechanics of the solution are as follows: The software generates a real-time
 ## Installation
 1. Clone the repository
 ```
-git clone https://github.com/SalwaSh/AI385-Automated-Usability-Testing-Mouse-Tracking-Facial-Expressions.git
+git clone https://github.com/SalwaSh/AI385-Automated-Usability-Testing
 ```
 2. Navigate to the project directory
 ```
