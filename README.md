@@ -7,7 +7,7 @@ The goal of the project is to answer the following question: How can we support 
 
 The mechanics of the solution are as follows: The software generates a real-time plot that shows changes in the user's facial expressions during the performance of required tasks😊. Additionally, it tracks and compares the user's mouse movements to a standard path, saving the results for analysis 🎮. 
 
-## Install & Dependence 📋
+## Dependence 📋
 - pyautogui
 - keyboard
 - Pillow
