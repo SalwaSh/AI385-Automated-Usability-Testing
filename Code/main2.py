@@ -15,9 +15,9 @@ from utilities.task_usability import compute_task_usability
 from utilities.DB_utilities import fetch_path_similarity
 
 host_name = 'localhost'
-database_name = 'ai385project' # you must create the schema manually
-user_name = 'root'
-password = '4010405'
+database_name = 'XXXX' # you must create the schema manually
+user_name = 'XXXX'
+password = 'XXXX'
 
 # Replace the placeholders with your actual database credentials
 conn = create_schema_and_table(host_name, database_name, user_name, password)
