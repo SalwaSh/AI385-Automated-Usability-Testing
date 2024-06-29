@@ -21,7 +21,11 @@ The mechanics of the solution are as follows: The software generates a real-time
 ```
 git clone https://github.com/SalwaSh/AI385-Automated-Usability-Testing-Mouse-Tracking-Facial-Expressions.git
 ```
-2. Install the required dependencies from requirements.txt
+2. Navigate to the project directory
+```
+cd AI385-Automated-Usability-Testing-Mouse-Tracking-Facial-Expressions/Code
+```
+3. Install the required dependencies from requirements.txt
 ```
 pip install -r requirements.txt
 ```
@@ -46,6 +50,16 @@ pip install -r requirements.txt
 |    |—— usability_by_emotion.py
 
 ```
+## Usage
+
+To run the project, follow these steps in **order**:
+
+1. go to main2.py and assign values to the ``` database_name, user_name, and password ``` variables.
+2. run main1.py.
+3. run main2.py.
+4. close the main1.py by clicking the "esc" button.
+5. close the main2.py by clicking the "q" button.
+6. Check the result from the database.
 
 #### Contributors ✍️
 
