@@ -52,7 +52,7 @@ pip install -r requirements.txt
 ```
 ## Usage
 
-To run the project, follow these steps in **order**:
+To run the project, follow these steps in **order** :
 
 1. go to main2.py and assign values to the ``` database_name, user_name, and password ``` variables.
 2. run main1.py.
@@ -63,7 +63,8 @@ To run the project, follow these steps in **order**:
 
 #### Contributors ✍️
 
+- Jana Aldubai
 - Sana Shamma
 - Salwa Shama
 - Samah Shama
-- Jana Aldubai
+
