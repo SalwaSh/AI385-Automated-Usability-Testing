@@ -61,7 +61,7 @@ To run the project, follow these steps in **order** :
 5. close the main2.py by clicking the "q" button.
 6. Check the result from the database.
 
-#### Contributors ✍️
+### Contributors ✍️
 
 - Jana Aldubai
 - Sana Shamma
