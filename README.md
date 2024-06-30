@@ -55,9 +55,15 @@ pip install -r requirements.txt
 To run the project, follow these steps in **order** :
 
 1. Go to main2.py and assign values to the ``` database_name, user_name, and password ``` variables.
-2. Go to mouse_positions_reference.txt and paste the typical path coordinates (you can use mouse_tracking.py to get the coordinates).
+2. Go to mouse_positions_reference.txt and paste the typical path coordinates. (**hint**: you can use mouse_tracking.py to get the coordinates.)
 3. Run main1.py.
-4. Run main2.py.
+```
+Python main1.py
+```
+4. Run main2.py. (open other terminal)
+```
+Python main2.py
+```
 5. Close the main1.py by clicking the "esc" button.
 6. Close the main2.py by clicking the "q" button.
 7. Check the result from the database.
